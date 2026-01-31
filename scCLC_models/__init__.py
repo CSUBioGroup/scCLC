@@ -1,0 +1,22 @@
+#from .train_model import train_model 
+#from .train_model_new import train_model_new
+#from .train_model_v3 import train_model_v3
+from .train_model_new_PosSimWeight import train_model_new_PosSimWeight
+from .train_model_threeOmics import train_model_threeOmics
+
+
+#from .train_model_new_PosSimWeight_time import train_model_new_PosSimWeight_time
+
+
+
+
+from .AE import Encoder_AE
+#from .ContrastiveLearning_AE import ContrastiveLearning_AE
+#from .ContrastiveLearning_AE_new import ContrastiveLearning_AE_new
+from .ContrastiveLearning_AE_new_ReviseLoss import ContrastiveLearning_AE_new_ReviseLoss
+from .ContrastiveLearning_AE_threeOmics import ContrastiveLearning_AE_threeOmics
+
+#from .ContrastiveLearning_AE_new_ReviseLoss_ablation import ContrastiveLearning_AE_new_ReviseLoss_ablation
+
+
+
