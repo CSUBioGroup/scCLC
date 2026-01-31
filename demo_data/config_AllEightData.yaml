@@ -1,0 +1,11 @@
+
+workers: 20
+max_element: 95536
+m: 0.999
+
+start_epoch: 1
+reload: False
+flag: aug_nn
+
+
+
